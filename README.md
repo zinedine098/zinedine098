@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **PP Nurul Jadid**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Django Framework**
 
 - 💬 Ask me about **react, vue, and django**
 
@@ -28,8 +28,8 @@
 &nbsp;
 
 ## Languages and Tools
-<p align="center"> <a href="https://github.com/zinedine098"><img src="https://skillicons.dev/icons?i=vscode,github,mongodb,css,html,js,express,bots,nodejs,laravel,django,bootstrap"></a></p>
-<p align="center"> <a href="https://github.com/zinedine098"><img src="https://skillicons.dev/icons?i=elixir,tailwind,php,mysql,replit,vue,react,postgresql"></a></p>
+<p align="center"> <a href="https://github.com/zinedine098"><img src="https://skillicons.dev/icons?i=vscode,github,css,html,js,nodejs,django,bootstrap"></a></p>
+<p align="center"> <a href="https://github.com/zinedine098"><img src="https://skillicons.dev/icons?i=mysql,vue,react"></a></p>
 
 
 ## My Stats:
