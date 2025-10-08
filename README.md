@@ -20,7 +20,7 @@
 <a href="https://instagram.com/zzddnnrizkii1" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="black_domon" height="30" width="40" />
 </a>
-<a href="https://wa.me/+6282229062398" target="blank">
+<a href="https://wa.me/+6282332819114" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="black_domon" height="30" width="40" />
 </a>
 </p>
