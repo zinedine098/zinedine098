@@ -29,7 +29,7 @@
 
 ## Languages and Tools
 <p align="center"> <a href="https://github.com/zinedine098"><img src="https://skillicons.dev/icons?i=vscode,github,css,html,js,nodejs,django,bootstrap"></a></p>
-<p align="center"> <a href="https://github.com/zinedine098"><img src="https://skillicons.dev/icons?i=mysql,vue,react"></a></p>
+<p align="center"> <a href="https://github.com/zinedine098"><img src="https://skillicons.dev/icons?i=mysql,vue,react,sqlite"></a></p>
 
 
 ## My Stats:
